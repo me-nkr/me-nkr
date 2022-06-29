@@ -5,4 +5,4 @@
 ### Looking to collabrate on anything I find interesing
 
 ## Did you Know ?
-- Did you know git stash is a stack ?
+- Did you know **git stash** is a stack ?
